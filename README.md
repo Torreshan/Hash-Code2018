@@ -3,5 +3,5 @@ This is the answer of Google Hash Code 2018.
 
 Authors are Zhiwei Han,
 Fengze Han,
-Tianming qiu,
+Tianming Qiu,
 Yinan Shi
